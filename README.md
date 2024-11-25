@@ -1,5 +1,5 @@
 # DealsDry-Assignment
-Employee Management System
+#Employee Management System
 This project is an Employee Management System built using the MERN stack. It provides functionalities to create, update, delete, and retrieve employee details with a modern, intuitive user interface and a robust backend. The project demonstrates the use of advanced JavaScript frameworks, libraries, and tools.
 
 #Features
